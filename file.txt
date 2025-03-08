@@ -1,6 +1,9 @@
 this is first line
 this is the latest line to append
+<<<<<<< HEAD
 testing fo the revert command first
 testing fo the revert command second
 this is the third line to test the git revert command
 this is the last change making in file 
+=======
+>>>>>>> parent of 0c14029 (two test lines added to the file.txt)
