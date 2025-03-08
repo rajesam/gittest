@@ -5,8 +5,11 @@ this is the latest line to append
 testing fo the revert command first
 testing fo the revert command second
 this is the third line to test the git revert command
+<<<<<<< HEAD
 this is the last change making in file 
 =======
 >>>>>>> parent of 0c14029 (two test lines added to the file.txt)
 =======
 >>>>>>> parent of 79f144a (file one updated)
+=======
+>>>>>>> parent of 51e6c88 (Revert "undo the last reverted the last commit")
