@@ -1,5 +1,8 @@
 this is first line
 
 this is second line
+<<<<<<< HEAD
 this is third line
 this is forth line
+=======
+>>>>>>> parent of 21de02e (now it contains three lines)
