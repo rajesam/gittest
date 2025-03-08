@@ -3,4 +3,3 @@ this is the latest line to append
 testing fo the revert command first
 testing fo the revert command second
 this is the third line to test the git revert command
-this is the last change making in file 
